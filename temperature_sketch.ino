@@ -92,7 +92,7 @@ float convertVoltageToTemperature(float voltage) {
 
 
 /**
- * @name getTemperature
+ * @name getTemperatureFromSensor
  * @description Grabs temperature from sensor
  *
  * @param {int} [sensor] Insert the TMP36 sensor pointer here in integer form
